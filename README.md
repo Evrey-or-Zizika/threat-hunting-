@@ -1,2 +1,1 @@
-# threat-hunting-
-q
+# threat-hunting-2
